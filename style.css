@@ -7,6 +7,7 @@
 }
 
 input, textarea {
+    appearance: none;
     -webkit-appearance: none;
     border-radius: none;
 }
@@ -101,6 +102,7 @@ header {
 .form-content {
     font-size: 20px;
     width: 100%;
+    appearance: none;
     -webkit-appearance: none;
     border-radius: 0;
 }
