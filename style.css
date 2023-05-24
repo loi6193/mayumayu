@@ -101,6 +101,8 @@ header {
 .form-content {
     font-size: 20px;
     width: 100%;
+    -webkit-appearance: none;
+    border-radius: 0;
 }
 
 .forms {
